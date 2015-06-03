@@ -7,6 +7,6 @@ version 0.11.1.
 
 Run `grunt` for building and `grunt serve` for preview.
 
-## Testing
+## Time Directive
 
-Running `grunt test` will run the unit tests with karma.
+See app/scripts/directive/timedirective.js for directive and app/views/main.html for directive in use.
